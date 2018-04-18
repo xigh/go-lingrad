@@ -29,6 +29,11 @@ gr.Append(color.RGBA{R: 56, G: 15, B: 109, A: 255})
 gr.Append(color.RGBA{R: 182, G: 54, B: 121, A: 255})
 gr.Append(color.RGBA{R: 253, G: 154, B: 105, A: 255})
 gr.Append(color.RGBA{R: 252, G: 246, B: 184, A: 255})
+
+c1 := gr.ColorAt(0)
+c2 := gr.ColorAt(1./3)
+c3 := gr.ColorAt(2./3)
+c4 := gr.ColorAt(1)
 ```
 
 ## License
