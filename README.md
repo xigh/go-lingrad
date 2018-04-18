@@ -20,6 +20,10 @@ It draws a gradient and save it to a png file. Its usage is quite simple:
     set file output (default "out.png")
 ```
 
+## Example
+
+![example](https://raw.githubusercontent.com/xigh/go-lingrad/master/out.png)
+
 ## How to program it ?
 
 ```golang
