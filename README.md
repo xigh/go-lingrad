@@ -4,7 +4,7 @@ Linear Gradient drawing in Go programming language
 
 ## Usage
 
-The small utility here has been written to test the gradient code.
+The small utility (main.go) here has been written to test the gradient code.
 It draws a gradient and save it to a png file. Its usage is quite simple:
 
 ```
