@@ -8,16 +8,16 @@ The small utility here has been written to test the gradient code.
 It draws a gradient and save it to a png file. Its usage is quite simple:
 
 ```
-  -width int
-        set image width (default 50)
-  -height int
-        set image height (default 512)
-  -landscape
-        set landscape mode
-  -inverse
-        inverse order
-  -o string
-        set file output (default "out.png")
+-width int
+    set image width (default 50)
+-height int
+    set image height (default 512)
+-landscape
+    set landscape mode
+-inverse
+    inverse order
+-o string
+    set file output (default "out.png")
 ```
 
 ## How to program it ?
